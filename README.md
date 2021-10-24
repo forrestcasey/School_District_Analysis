@@ -11,26 +11,26 @@
 
 ### How is the district summary affected?
 
-- ### Before modification:
+- #### Before modification:
 
 ![district_summary_original.png](https://github.com/forrestcasey/School_District_Analysis/blob/main/Resources/district_summary_original.png)
 
-### After modification:
+- #### After modification:
 
 ![district_summary_df_updated.png](https://github.com/forrestcasey/School_District_Analysis/blob/main/Resources/district_summary_df_updated.png)
 
 
 
-- How is the school summary affected?
+### How is the school summary affected?
 
 
 
-### Before modification:
+- ### Before modification:
 
 ![PyCitySchools_Challenge_original.png](https://github.com/forrestcasey/School_District_Analysis/blob/main/Resources/PyCitySchools_Challenge_original.png)
 
 
-### After modification:
+- ### After modification:
 
 
 
@@ -38,15 +38,15 @@
 
 
 
-- How does replacing the ninth graders’ math and reading scores affect Thomas High  School’s performance relative to the other schools?
+### How does replacing the ninth graders’ math and reading scores affect Thomas High  School’s performance relative to the other schools?
 
 	- Performance is minimally impacted relative to other schools.
 
-- How does replacing the ninth-grade scores affect the following:
+### How does replacing the ninth-grade scores affect the following:
 
-	- Math and reading scores by grade
+- Math and reading scores by grade
 
-#### The scores were removed & replaced with NaN's
+## The scores were removed & replaced with NaN's
 
 
 ![Math and reading scores by grade](https://github.com/forrestcasey/School_District_Analysis/blob/main/Resources/Math%20and%20reading%20scores%20by%20grade.png)
@@ -64,11 +64,11 @@
 
 	- Scores by school type
 
-### Before modification:
+- ### Before modification:
 
 ![type_summary_df_before.png](https://github.com/forrestcasey/School_District_Analysis/blob/main/Resources/type_summary_df_before.png)
 
-### After modification:
+- ### After modification:
 
 ![type_summary_df_updated.png](https://github.com/forrestcasey/School_District_Analysis/blob/main/Resources/type_summary_df_updated.png)
 
