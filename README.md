@@ -40,13 +40,13 @@
 
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High  School’s performance relative to the other schools?
 
-	- Performance is minimally impacted relative to other schools.
+- Performance is minimally impacted relative to other schools.
 
-### How does replacing the ninth-grade scores affect the following:
+## How does replacing the ninth-grade scores affect the following:
 
-- Math and reading scores by grade
+- ### Math and reading scores by grade
 
-## The scores were removed & replaced with NaN's
+#### The scores were removed & replaced with NaN's:
 
 
 ![Math and reading scores by grade](https://github.com/forrestcasey/School_District_Analysis/blob/main/Resources/Math%20and%20reading%20scores%20by%20grade.png)
@@ -54,15 +54,15 @@
 
 - Scores by school spending
 
-		- These values were not affected.
+	- These values were not affected.
 
 
-	- Scores by school size
+- Scores by school size
 
-		- Not affected and remain in Medium bin.
+	- Not affected and remain in Medium bin.
 
 
-	- Scores by school type
+- Scores by school type
 
 - ### Before modification:
 
