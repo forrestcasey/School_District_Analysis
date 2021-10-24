@@ -25,12 +25,12 @@
 
 
 
-	### - Before modification:
+### Before modification:
 
 ![PyCitySchools_Challenge_original.png](https://github.com/forrestcasey/School_District_Analysis/blob/main/Resources/PyCitySchools_Challenge_original.png)
 
 
-	### - After modification:
+### After modification:
 
 
 
@@ -40,7 +40,7 @@
 
 - How does replacing the ninth graders’ math and reading scores affect Thomas High  School’s performance relative to the other schools?
 
-	- Performance is minimally impacted with relative to other schools.
+	- Performance is minimally impacted relative to other schools.
 
 - How does replacing the ninth-grade scores affect the following:
 
@@ -49,10 +49,10 @@
 #### The scores were removed & replaced with NaN's
 
 
-		![Math and reading scores by grade](https://github.com/forrestcasey/School_District_Analysis/blob/main/Resources/Math%20and%20reading%20scores%20by%20grade.png)
+![Math and reading scores by grade](https://github.com/forrestcasey/School_District_Analysis/blob/main/Resources/Math%20and%20reading%20scores%20by%20grade.png)
 
 
-	- Scores by school spending
+- Scores by school spending
 
 		- These values were not affected.
 
@@ -64,16 +64,16 @@
 
 	- Scores by school type
 
-### - Before modification:
+### Before modification:
 
 ![type_summary_df_before.png](https://github.com/forrestcasey/School_District_Analysis/blob/main/Resources/type_summary_df_before.png)
 
-### - After modification:
+### After modification:
 
 ![type_summary_df_updated.png](https://github.com/forrestcasey/School_District_Analysis/blob/main/Resources/type_summary_df_updated.png)
 
 
-## Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+## Summary: 
 
 - Thomas High School's total number of students was reduced due to removing 9th grade values, so we have a new total student count.
 - The Average Reading, Average Math, % Passing Math, % Passing Reading & Overall Passing scores values were slightly altered.
