@@ -64,18 +64,21 @@
 
 - ### Scores by school type
 
+
 	- #### Before modification:
-![type_summary_df_before.png](https://github.com/forrestcasey/School_District_Analysis/blob/main/Resources/type_summary_df_before.png)
+	![type_summary_df_before.png](https://github.com/forrestcasey/School_District_Analysis/blob/main/Resources/type_summary_df_before.png)
+
+
 
 	- #### After modification:
-
-![type_summary_df_updated.png](https://github.com/forrestcasey/School_District_Analysis/blob/main/Resources/type_summary_df_updated.png)
+	![type_summary_df_updated.png](https://github.com/forrestcasey/School_District_Analysis/blob/main/Resources/type_summary_df_updated.png)
 
 
 ## Summary: 
 
-- Thomas High School's total number of students was reduced due to removing 9th grade values, so we have a new total student count.
+- Thomas High School's total number of students was reduced due to removing 9th grade values, so we have a new total student count
 - The Average Reading, Average Math, % Passing Math, % Passing Reading & Overall Passing scores values were slightly altered.
+- A result of these overall and average score discrepancies menetioned in the above bullet-point, the district, school summary, and charter school type values have all been changed as such
 - 9th graders math and reading scores in Thomas High School cannot then be included in the overall analysis, affecting the credence of the analysis itself
 
 
