@@ -25,12 +25,12 @@
 
 
 
-- ### Before modification:
+- #### Before modification:
 
 ![PyCitySchools_Challenge_original.png](https://github.com/forrestcasey/School_District_Analysis/blob/main/Resources/PyCitySchools_Challenge_original.png)
 
 
-- ### After modification:
+- #### After modification:
 
 
 
@@ -52,23 +52,23 @@
 ![Math and reading scores by grade](https://github.com/forrestcasey/School_District_Analysis/blob/main/Resources/Math%20and%20reading%20scores%20by%20grade.png)
 
 
-- Scores by school spending
+- ### Scores by school spending
 
 	- These values were not affected.
 
 
-- Scores by school size
+- ### Scores by school size
 
 	- Not affected and remain in Medium bin.
 
 
-- Scores by school type
+- ### Scores by school type
 
-- ### Before modification:
+- #### Before modification:
 
 ![type_summary_df_before.png](https://github.com/forrestcasey/School_District_Analysis/blob/main/Resources/type_summary_df_before.png)
 
-- ### After modification:
+- #### After modification:
 
 ![type_summary_df_updated.png](https://github.com/forrestcasey/School_District_Analysis/blob/main/Resources/type_summary_df_updated.png)
 
