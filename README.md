@@ -1,12 +1,13 @@
 # PyCitySchools Analysis
 
-## Overview of the school district analysis: Explain the purpose of this analysis.
-Because the reading and math grades for Thomas High School ninth graders appeared to have been altered, we were given the task to replace the math and reading scores for ninth graders at Thomas High School with NaNs while keeping the rest of the data intact. Afterward, we are to evaluate how these changes affect the overall analysis. 
+## Overview
+
+- Because the reading and math grades for Thomas High School ninth graders appeared to have been altered, we were given the task to replace the math and reading scores for ninth graders at Thomas High School with NaNs while keeping the rest of the data intact. Afterward, we are to evaluate how these changes affect the overall analysis. 
 
 
-## Results: Using bulleted lists and images of DataFrames as support, address the following questions.
+## Results: 
 
-In diaplaying the before & after results of Thomas High School from the original df to the updated df, I noticed slight variation in the Average Reading, Average Math, % Passing Math, % Passing Reading & Overall Passing scores values.
+#### There was slight variation in the Average Reading, Average Math, % Passing Math, % Passing Reading & Overall Passing scores values:
 
 - How is the district summary affected?
 
@@ -39,33 +40,35 @@ In diaplaying the before & after results of Thomas High School from the original
 
 - How does replacing the ninth graders’ math and reading scores affect Thomas High  School’s performance relative to the other schools?
 
+	- Performance is minimally impacted with relative to other schools.
 
 - How does replacing the ninth-grade scores affect the following:
 
 	- Math and reading scores by grade
 
-
-		- The scores were removed & replaced with NaN's
+#### The scores were removed & replaced with NaN's
 
 
 		![Math and reading scores by grade](https://github.com/forrestcasey/School_District_Analysis/blob/main/Resources/Math%20and%20reading%20scores%20by%20grade.png)
 
 
 	- Scores by school spending
-		These values were not affected
+
+		- These values were not affected.
 
 
 	- Scores by school size
-		Not affected and remain in Medium bin
+
+		- Not affected and remain in Medium bin.
 
 
 	- Scores by school type
 
-	### - Before modification:
+### - Before modification:
 
 ![type_summary_df_before.png](https://github.com/forrestcasey/School_District_Analysis/blob/main/Resources/type_summary_df_before.png)
 
-	### - After modification:
+### - After modification:
 
 ![type_summary_df_updated.png](https://github.com/forrestcasey/School_District_Analysis/blob/main/Resources/type_summary_df_updated.png)
 
