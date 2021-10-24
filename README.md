@@ -65,12 +65,9 @@
 - ### Scores by school type
 
 	- #### Before modification:
-
 ![type_summary_df_before.png](https://github.com/forrestcasey/School_District_Analysis/blob/main/Resources/type_summary_df_before.png)
 
-
 	- #### After modification:
-
 
 ![type_summary_df_updated.png](https://github.com/forrestcasey/School_District_Analysis/blob/main/Resources/type_summary_df_updated.png)
 
