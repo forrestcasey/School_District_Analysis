@@ -7,11 +7,11 @@
 
 ## Results: 
 
-#### There was slight variation in the Average Reading, Average Math, % Passing Math, % Passing Reading & Overall Passing scores values:
+#### There was slight variation in the Average Reading, Average Math, % Passing Math, % Passing Reading & Overall Passing scores values
 
-- How is the district summary affected?
+### How is the district summary affected?
 
-### Before modification:
+- ### Before modification:
 
 ![district_summary_original.png](https://github.com/forrestcasey/School_District_Analysis/blob/main/Resources/district_summary_original.png)
 
