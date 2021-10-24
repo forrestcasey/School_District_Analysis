@@ -10,7 +10,11 @@ In diaplaying the before & after results of Thomas High School from the original
 
 - How is the district summary affected?
 
+### Before modification:
+
 ![district_summary_original.png](https://github.com/forrestcasey/School_District_Analysis/blob/main/Resources/district_summary_original.png)
+
+### After modification:
 
 ![district_summary_df_updated.png](https://github.com/forrestcasey/School_District_Analysis/blob/main/Resources/district_summary_df_updated.png)
 
@@ -20,18 +24,16 @@ In diaplaying the before & after results of Thomas High School from the original
 
 
 
-### Before replacing the reading and math scores for Thomas High School with NaNs:
+	### - Before modification:
 
 ![PyCitySchools_Challenge_original.png](https://github.com/forrestcasey/School_District_Analysis/blob/main/Resources/PyCitySchools_Challenge_original.png)
 
 
-### After replacing the reading and math scores for Thomas High School with NaNs:
+	### - After modification:
 
 
 
 ![PyCitySchools_Challenge_updated.png](https://github.com/forrestcasey/School_District_Analysis/blob/main/Resources/PyCitySchools_Challenge_updated.png)
-
-
 
 
 
@@ -41,18 +43,31 @@ In diaplaying the before & after results of Thomas High School from the original
 - How does replacing the ninth-grade scores affect the following:
 
 	- Math and reading scores by grade
-	The scores were removed & replaced with NaN's
-	![Math and reading scores by grade](https://github.com/forrestcasey/School_District_Analysis/blob/main/Resources/Math%20and%20reading%20scores%20by%20grade.png)
+
+
+		- The scores were removed & replaced with NaN's
+
+
+		![Math and reading scores by grade](https://github.com/forrestcasey/School_District_Analysis/blob/main/Resources/Math%20and%20reading%20scores%20by%20grade.png)
 
 
 	- Scores by school spending
+		These values were not affected
 
 
 	- Scores by school size
-
+		Not affected and remain in Medium bin
 
 
 	- Scores by school type
+
+	### - Before modification:
+
+![type_summary_df_before.png](https://github.com/forrestcasey/School_District_Analysis/blob/main/Resources/type_summary_df_before.png)
+
+	### - After modification:
+
+![type_summary_df_updated.png](https://github.com/forrestcasey/School_District_Analysis/blob/main/Resources/type_summary_df_updated.png)
 
 
 ## Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
